@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48" fill="none">
+  <!-- House icon -->
+  <g>
+    <!-- Roof -->
+    <polygon points="18,6 34,18 2,18" fill="#e01f3d"/>
+    <!-- Body -->
+    <rect x="6" y="18" width="24" height="18" rx="1" fill="#e01f3d"/>
+    <!-- Door -->
+    <rect x="14" y="26" width="8" height="10" rx="1" fill="#0b0a09"/>
+    <!-- Window -->
+    <rect x="8" y="21" width="6" height="6" rx="1" fill="#0b0a09" opacity="0.6"/>
+    <!-- Chimney -->
+    <rect x="25" y="11" width="4" height="8" rx="1" fill="#c0182e"/>
+  </g>
+  <!-- Text: Luba -->
+  <text x="42" y="29" font-family="Poppins, Arial, sans-serif" font-weight="700" font-size="20" fill="#ffffff" letter-spacing="0.5">LUBA</text>
+  <!-- Separator line -->
+  <rect x="109" y="10" width="2" height="28" rx="1" fill="#e01f3d" opacity="0.7"/>
+  <!-- Text: Immobilier -->
+  <text x="118" y="29" font-family="Poppins, Arial, sans-serif" font-weight="400" font-size="15" fill="#9d9895" letter-spacing="1">IMMOBILIER</text>
+</svg>
